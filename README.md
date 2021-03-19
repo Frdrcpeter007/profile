@@ -1,6 +1,6 @@
 ### 👋 Hey je m'appelle PETER NDENGO aka Frdrcpeter007 [linkedIn]
 
-[![linkedIn](https://img.shields.io/github/followers/frdrcpeter007?label=Follow)](https://codestackr.com)
+[![linkedIn](https://img.shields.io/github/followers/frdrcpeter007?label=Follow)](https://www.linkedin.com/in/peter-ndengo-600b65183)
 
 ## Je suis un super passioné de la programmation comme t'a pas idée!!
 
